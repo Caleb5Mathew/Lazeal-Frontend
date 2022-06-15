@@ -7,7 +7,7 @@
   },
   "license": "MIT",
   "scripts": {
-    "build": "set NODE_OPTIONS=--max_old_space_size=8192 && webpack --mode production",
+    "build": "cross-env NODE_OPTIONS=--max_old_space_size=4096 webpack",
     "start": "webpack-dev-server --open "
   },
   "dependencies": {
