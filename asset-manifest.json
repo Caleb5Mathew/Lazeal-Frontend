@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Lazeal-Frontend/static/css/main.d7caef07.css",
+    "main.css": "/Lazeal-Frontend/static/css/main.34176d2f.css",
     "main.js": "/Lazeal-Frontend/static/js/main.7165f630.js",
     "index.html": "/Lazeal-Frontend/index.html",
-    "main.d7caef07.css.map": "/Lazeal-Frontend/static/css/main.d7caef07.css.map",
+    "main.34176d2f.css.map": "/Lazeal-Frontend/static/css/main.34176d2f.css.map",
     "main.7165f630.js.map": "/Lazeal-Frontend/static/js/main.7165f630.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7caef07.css",
+    "static/css/main.34176d2f.css",
     "static/js/main.7165f630.js"
   ]
 }
